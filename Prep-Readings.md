@@ -41,3 +41,15 @@ https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-prob
 3. Divide
 4. Stuck?
 
+## 5 Whys: Getting to the Root of a Problem Quickly
+https://www.mindtools.com/pages/article/newTMC_5W.htm
+
+1. Assemble a Team
+2. Define the Problem
+3. Ask the First "Why?"
+4. Ask "Why?" Four More Times
+5. Know When to Stop
+6. Address the Root Cause(s)
+7. Monitor Your Measures
+
+
