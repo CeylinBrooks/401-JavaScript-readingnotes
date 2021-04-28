@@ -1,0 +1,8 @@
+When is Basic Authorization used vs. Bearer Authorization?
+
+Basic Auth refers more the process of proving the indentity of a user.
+Bearer Auth refers to allowing a certian action to occur with the use of access tokens.
+[]
+
+What does the JSON Web Token package do?
+What considerations should we make when creating and storing a SECRET
