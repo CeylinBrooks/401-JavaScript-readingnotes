@@ -3,7 +3,7 @@ When is Basic Authorization used vs. Bearer Authorization?
 Basic Auth refers more the process of proving the indentity of a user.
 Bearer Auth refers to allowing a certian action to occur with the use of access tokens.
 
-[Article] (https://blog.restcase.com/4-most-used-rest-api-authentication-methods/)
+[Article](https://blog.restcase.com/4-most-used-rest-api-authentication-methods)
 
 What does the JSON Web Token package do?
 
