@@ -30,3 +30,18 @@ applications, containers, DevOps and cloud-native environments.
 
 JSON Web Token- an Internet proposed standard for creating data with optional signature and/or optional encryption whose payload holds 
 JSON that asserts some number of claims
+
+Which 3 things had you heard about previously and now have better clarity on?
+
+- CRUD
+- User info encryption
+- WRRC
+
+Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+- Access Tokens
+- ACL 
+- Linked Lists
+
+What are you most excited about trying to implement or see how it works?
+
+Authentication, because the process of encryption of user information is fascinating to me.
