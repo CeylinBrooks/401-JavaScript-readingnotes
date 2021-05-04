@@ -1,4 +1,4 @@
-Name 3 advantages to Test Driven Development: [https://www.codica.com/blog/test-driven-development-benefits/]
+Name 3 advantages to Test Driven Development: [Link]([https://www.codica.com/blog/test-driven-development-benefits/)
 1.Better program design and higher code quality
 2.Code flexibility and easier maintenance
 3.Save project costs in the long run
@@ -12,7 +12,7 @@ The test suite itself has to be maintained; tests may not be completely determin
 What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
 The most important difference between class- and prototype-based inheritance is that a class defines a type which can be instantiated at runtime, whereas a prototype is itself an object instance.
 
-https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up#:~:text=Prototypes%20vs.,is%20itself%20an%20object%20instance.&text=A%20class%20constructor%20creates%20an%20instance%20of%20the%20class.
+[Link](https://www.toptal.com/javascript/es6-class-chaos-keeps-js-developer-up#:~:text=Prototypes%20vs.,is%20itself%20an%20object%20instance.&text=A%20class%20constructor%20creates%20an%20instance%20of%20the%20class.)
 
 Why REST?
 REST makes efficient use of bandwidth
