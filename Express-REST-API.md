@@ -9,11 +9,11 @@ Name 3 real world use cases where you’d want to change the request with custom
 True or false: The route handler is middleware? True, middleware is code that examines an incoming request and prepares it for further processing by other handlers or short circuits the processing 
 
 
-https://stackoverflow.com/questions/58925276/what-is-the-difference-between-a-route-handler-and-middleware-function-in-expres
+[Link](https://stackoverflow.com/questions/58925276/what-is-the-difference-between-a-route-handler-and-middleware-function-in-expres)
 
 In what ways can a middleware function end the process and send data to the browser? Middleware functions are functions that have access to the request object (req), the response object (res), and the next middleware function in the application’s request-response cycle.
 
-https://medium.com/@selvaganesh93/how-node-js-middleware-works-d8e02a936113
+[Link](https://medium.com/@selvaganesh93/how-node-js-middleware-works-d8e02a936113)
 
 At what point in the request lifecycle can you “inject” middleware?
 
