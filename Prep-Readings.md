@@ -1,5 +1,5 @@
 ## How to Solve Programming Problems
-https://simpleprogrammer.com/solving-problems-breaking-it-down/
+[Link](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
 
 - The most common mistake I see when conducting interviews or watching someone try to solve a
 programming problem is they try to start writing code as soon as possible.
@@ -22,7 +22,7 @@ really understand your solution and that it will work for more than one case.
 
 
 ## Pretend Your Time is Worth $1,000/Hour and You’ll Become 100x More Productive
-https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d
+[Link](https://medium.com/swlh/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-f04628bb3e6d)
 
 “The most successful people I know are not busy. They’re focused.”
 
@@ -31,7 +31,7 @@ Are you focused, making tangible action steps towards what truly matters?
 
 
 ## How to think like a programmer — lessons in problem solving
-https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
+[Link](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 
 - a more effective way for problem solving!
 - The best way involves a) having a framework and b) practicing it.
@@ -42,7 +42,7 @@ https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-prob
 4. Stuck?
 
 ## 5 Whys: Getting to the Root of a Problem Quickly
-https://www.mindtools.com/pages/article/newTMC_5W.htm
+[Link](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
 1. Assemble a Team
 2. Define the Problem
