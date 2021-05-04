@@ -16,7 +16,7 @@ Use encryption to store secrets within .git repositories.
 Use environment variables.
 Use "Secrets as a service" solutions.
 
-https://blog.gitguardian.com/secrets-api-management/
+[Link](https://blog.gitguardian.com/secrets-api-management/)
 
 
 encryption- the process of converting information or data into a code, especially to prevent unauthorized access.
