@@ -16,7 +16,7 @@ the thing that applications use to make API requests on behalf of a user.
 What’s a benefit of using OAuth instead of your own basic authentication?
 OAuth doesn’t share password data but instead uses authorization tokens to prove an identity between consumers and service providers. OAuth is an authentication protocol that allows you to approve one application interacting with another on your behalf without giving away your password.
 
-(Source)[https://www.varonis.com/blog/what-is-oauth/#:~:text=OAuth%20doesn't%20share%20password,without%20giving%20away%20your%20password.]
+[Link](https://www.varonis.com/blog/what-is-oauth/#:~:text=OAuth%20doesn't%20share%20password,without%20giving%20away%20your%20password.)
 
 
 Client ID-  a unique identifier for a browser.
