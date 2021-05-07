@@ -15,11 +15,15 @@ and that usually implies if sent data has been processed on receivers side.
 
 What classic design pattern is best represented by event driven programming?
 
+observer pattern 
 
 
 How do you test an event driven system?
 
+Unit tests are the most basic tests you will write.
 
-FIFO Queue- 
 
-Pub/Sub- 
+FIFO Queue- FIFO (First-In-First-Out) queues are designed to enhance messaging between applications when the order of operations and events is critical, 
+or where duplicates can't be tolerated.
+
+Pub/Sub- Pub/Sub is an asynchronous messaging service that decouples services that produce events from services that process events.
