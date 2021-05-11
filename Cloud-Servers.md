@@ -7,7 +7,7 @@ The action receives the request and passes it on to the view.
 The view renders the page as HTML.
 The controller sends the HTML back to the browser. The page loads and the user sees it.
 
-[Link](https://www.codecademy.com/articles/request-response-cycle-static#:~:text=The%20request%2Fresponse%20cycle%20traces,things%20aren't%20working).)
+[Link](https://www.codecademy.com/articles/request-response-cycle-static#:~:text=The%20request%2Fresponse%20cycle%20traces,things%20aren't%20working)
 
 
 Explain what a “server” is, as it relates to the WRRC
